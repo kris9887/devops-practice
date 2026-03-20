@@ -1,5 +1,3 @@
+
 print("Hello DevOps,this is kri on board ")
-
-
-
-add app.py
+print("Hello DevOps CI")
